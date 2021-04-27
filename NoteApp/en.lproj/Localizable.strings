@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  NoteApp
+
+  Created by Sudeep Sathi Ramachandran on 24/4/21.
+  
+*/
+
+"ListNoteNavTitle" = "Notes";
+"ListNoteEmptyMsg" = "Start create your first Note";
+"CreateNote" = "New Note";
+"EditNote" = "Edit Note";
